@@ -19,10 +19,13 @@ body {
 
 img {
     background-color: aquamarine;
-    width: 350px;
-    height: 200px;
+    /* width: 350px;
+    height: 200px; */
     border-top-left-radius: 5px;
     border-top-right-radius: 5px;
+    width: 100%;
+    max-width: 400px;
+    height: auto;
 }
 
 .header,
