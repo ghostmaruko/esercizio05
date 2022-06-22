@@ -21,7 +21,8 @@ img {
     background-color: aquamarine;
     width: 350px;
     height: 200px;
-    border-radius-top: 10px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
 }
 
 .header,
@@ -34,4 +35,8 @@ img {
 
 .footer {
     margin-bottom: 20px;
+}
+
+content {
+    border: 1px solid grey;
 }
